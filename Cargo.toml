@@ -1,0 +1,10 @@
+[package]
+name = "entitler"
+version = "0.0.1"
+edition = "2024"
+description = "Official Entitler SDK for Rust (not yet available)"
+license = "MIT"
+readme = "README.md"
+homepage = "https://entitler.co"
+repository = "https://github.com/entitlerhq/entitler-rust"
+include = ["src/**", "README.md", "LICENSE"]
